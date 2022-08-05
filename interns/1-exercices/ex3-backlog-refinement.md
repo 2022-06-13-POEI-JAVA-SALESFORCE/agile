@@ -8,7 +8,7 @@
 ## Énoncé
 
 À partir de votre *Product Backlog* (exercice 2) : 
-1. Appliquez les priorités *Highest*, *high*, *medium*, *low*, *lowest* à chaque *US* en vous appuyant sur le grille *INVEST*.
+1. Appliquez les priorités *Highest*, *high*, *medium*, *low*, *lowest* à chaque *US* en vous appuyant sur la grille *INVEST*.
 2. Sélectionnez 5 *US* les plus prioritaires et apportez les précisions (affinage).
 3. Définissez des critères d'acceptation pour chaque *US* sélectionné.
 
@@ -16,14 +16,14 @@
 
 - Assistance durant l'achat.
 
-#### Aide rédaction d'un *US*
+#### Aide à la rédaction d'un *US*
 
 1. Utilisez la formulation suivante pour décrire votre *US* :
 `En tant que {utilisateur}, je veux un {un objectif/besoin} afin que {résultat}`
 
-2. Spécifiez les règles, les précisions fonctionnelles et/ou techniques propre au *US*
+2. Spécifiez les règles, les précisions fonctionnelles et/ou techniques propres au *US*
 
-3. Listez vos critères d'acceptation (résultat permettant de vérifier que l'*US* a été bien dévéloppé)
+3. Listez vos critères d'acceptation (résultat permettant de vérifier que l'*US* a été bien développé)
 
 ##### Description (1)
 

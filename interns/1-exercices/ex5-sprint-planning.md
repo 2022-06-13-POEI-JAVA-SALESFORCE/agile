@@ -31,6 +31,6 @@
 
 1. Dans un groupe, le product owner, nous présentera son travail en argumentant les choix et priorisations des US.
 
-2. Dans un autre groupe, un membre de l'équipe de dev, nous présentera en argumentant la description technique détaillé d'un *US*.
+2. Dans un autre groupe, un membre de l'équipe de dev, nous présentera en argumentant la description technique détaillée d'un *US*.
 
 3. Le dernier groupe, le *SCRUM Master*, nous présentera les actions menées pour aider son équipe à atteindre les objectifs.

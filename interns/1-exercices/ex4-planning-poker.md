@@ -7,7 +7,7 @@
 
 ## Énoncé
 
-A partir de votre *product backlog*, estimez la complexité de vos 5 *US* les plus prioritaires.
+À partir de votre *product backlog*, estimez la complexité de vos 3 *US* les plus prioritaires.
 
 1. Votez en utilisant l'extension *Planning Poker* (gardez la suite de Fibonacci pour les estimations).
 - En cas d'écart, confrontez les membres de l'équipe qui ont voté aux extrêmes (note la plus basse et note la plus élevée) pour avoir les arguments de chacun et revotez pour avoir un consensus sur l'estimation.

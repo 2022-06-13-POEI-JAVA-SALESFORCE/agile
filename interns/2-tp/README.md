@@ -17,7 +17,7 @@ A partir des informations ci-dessus et des informations complémentaires qui peu
 2. Sélectionnez des *US* candidates pour le premier *sprint*
 3. Effectuez *le backlog refinement* des *US* candidates :
 - Description
-- Specifications 
+- Spécifications 
 - Critères d'acceptation
 - Priorité
 
@@ -36,11 +36,11 @@ Lorsque la validation technique ou fonctionnelle n'a pas été accepté par le f
 ### Travailler à réaliser le *product owner*
 
 2. Analysez et ajoutez des nouveaux US dans votre *product backlog*.
-1. Si besoin, contactez le client et les utilisateurs finaux (rôles joué par le formateur), pour récueillir des nouveaux besoins ou avoir des réponses à vos questions sur le périmètre actuel.
+1. Si besoin, contactez le client et les utilisateurs finaux (rôles joués par le formateur), pour recueillir des nouveaux besoins ou avoir des réponses à vos questions sur le périmètre actuel.
 3. Réorganisez votre *product backlog* en conséquence.
 4. Sélectionnez des *US* à proposer à l'équipe de dev pour le prochain *sprint*.
 
 ### Travailler à réaliser par le *SCRUM Master*
 
-1. Communiquez avec le *product owner* et les développeurs pour les aider à surmonter les obstacles, guidez votre équipe à trouver les meilleurs solutions pour atteindre les objectifs.
+1. Communiquez avec le *product owner* et les développeurs pour les aider à surmonter les obstacles, guidez votre équipe à trouver les meilleures solutions pour atteindre les objectifs.
 2. Assurez-vous que les principes agiles sont bien appliqués par chaque membre de l'équipe (simple inspection).
